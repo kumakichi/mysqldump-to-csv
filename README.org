@@ -1,0 +1,5 @@
+* About
+
+  This is a golang reimplementation of [[https://github.com/jamesmishra/mysqldump-to-csv][mysqldump-to-csv]] written by [[https://github.com/jamesmishra][jamesmishra]]
+
+  I modified standard library *encoding/csv*, add quote character support for reader, see [[https://github.com/kumakichi/csv][csv]]
